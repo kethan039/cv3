@@ -52,14 +52,15 @@ a:hover{
 }
 
 .top-cloud{
-  position: absolute;
-  right: 250px;
-  top: 100px;
+  position: relative;
+  right: 0px;
+  left:350px;
+  top: 10px;
+  
 }
 .bottom-cloud{
-  position: absolute;
-  left : 300px;
-  bottom: 1500px;
+  position: relative;
+  bottom:170px;
 }
 hr{
   border: dotted #EAF6F6;
